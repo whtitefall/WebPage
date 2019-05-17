@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/whtitefall/Webpage.git/static/css/main.2cce8147.chunk.css",
-    "main.js": "/whtitefall/Webpage.git/static/js/main.e2d6c1be.chunk.js",
-    "main.js.map": "/whtitefall/Webpage.git/static/js/main.e2d6c1be.chunk.js.map",
-    "runtime~main.js": "/whtitefall/Webpage.git/static/js/runtime~main.958a4df3.js",
-    "runtime~main.js.map": "/whtitefall/Webpage.git/static/js/runtime~main.958a4df3.js.map",
-    "static/js/2.b41502e9.chunk.js": "/whtitefall/Webpage.git/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/whtitefall/Webpage.git/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/whtitefall/Webpage.git/index.html",
-    "precache-manifest.3ea4348799301a1c387ad473fa050aca.js": "/whtitefall/Webpage.git/precache-manifest.3ea4348799301a1c387ad473fa050aca.js",
-    "service-worker.js": "/whtitefall/Webpage.git/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/whtitefall/Webpage.git/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/whtitefall/Webpage.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Webpage/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Webpage/static/js/main.c8b1689c.chunk.js",
+    "main.js.map": "/Webpage/static/js/main.c8b1689c.chunk.js.map",
+    "runtime~main.js": "/Webpage/static/js/runtime~main.a395d09c.js",
+    "runtime~main.js.map": "/Webpage/static/js/runtime~main.a395d09c.js.map",
+    "static/js/2.b41502e9.chunk.js": "/Webpage/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/Webpage/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/Webpage/index.html",
+    "precache-manifest.5f8ec88f69b4928434e474fcb5c0323a.js": "/Webpage/precache-manifest.5f8ec88f69b4928434e474fcb5c0323a.js",
+    "service-worker.js": "/Webpage/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Webpage/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/Webpage/static/media/logo.5d5d9eef.svg"
   }
 }
