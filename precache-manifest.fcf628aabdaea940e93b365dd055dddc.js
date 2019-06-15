@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "754b20c5041e2a2915eb0ae759facfc9",
+    "revision": "f0fa47b0b07dfe03de919dc4ce0f128c",
     "url": "/Webpage/index.html"
   },
   {
-    "revision": "b473e0fc1452e4ef8511",
-    "url": "/Webpage/static/css/main.dd8a5d7d.chunk.css"
+    "revision": "980919ef690b099c4e57",
+    "url": "/Webpage/static/css/main.ac6da6ac.chunk.css"
   },
   {
     "revision": "2315f74ce3c99316133d",
     "url": "/Webpage/static/js/2.3310f33a.chunk.js"
   },
   {
-    "revision": "b473e0fc1452e4ef8511",
+    "revision": "980919ef690b099c4e57",
     "url": "/Webpage/static/js/main.e3d0e7a0.chunk.js"
   },
   {
@@ -22,5 +22,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/Webpage/static/media/logo.5d5d9eef.svg"
+  },
+  {
+    "revision": "61568081a895ece8718c30dbda3d45ff",
+    "url": "/Webpage/static/media/stationmoon.61568081.jpg"
   }
 ]);
